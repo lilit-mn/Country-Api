@@ -1,0 +1,18 @@
+body {
+    background-color: #a28089;
+}
+
+.country-flag {
+    max-width: 70px;
+    min-height: 50px
+
+}
+
+.app-container {
+    text-align: center;
+}
+
+.pagination-container {
+    display: inline-block;
+    margin-top: 20px;
+}
